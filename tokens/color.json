@@ -1,0 +1,517 @@
+{
+  "$metadata": {
+    "collection": "color",
+    "modes": [
+      "theme/blue",
+      "light"
+    ]
+  },
+  "theme/blue": {
+    "bg": {
+      "primary": {
+        "$value": "#00000099",
+        "$type": "color"
+      },
+      "secondary": {
+        "$value": "#0000003d",
+        "$type": "color"
+      },
+      "tertiary": {
+        "$value": "#00000033",
+        "$type": "color"
+      },
+      "placeholder": {
+        "$value": "#0000001f",
+        "$type": "color"
+      },
+      "quaternary": {
+        "$value": "#0000001f",
+        "$type": "color"
+      },
+      "toast": {
+        "$value": "{base.white}",
+        "$type": "color"
+      },
+      "toast_auxiliary": {
+        "$value": "#000000b2",
+        "$type": "color"
+      },
+      "float": {
+        "$value": "#000000db",
+        "$type": "color"
+      },
+      "dialog": {
+        "$value": "#000000db",
+        "$type": "color"
+      },
+      "generally": {
+        "$value": "{base.white}",
+        "$type": "color"
+      }
+    },
+    "fill": {
+      "normal": {
+        "$value": "#ffffff33",
+        "$type": "color"
+      },
+      "generally": {
+        "$value": "#00000026",
+        "$type": "color"
+      },
+      "auxiliary": {
+        "$value": "#0000000d",
+        "$type": "color"
+      },
+      "quaternary": {
+        "$value": "#0000004d",
+        "$type": "color"
+      },
+      "press": {
+        "$value": "#0000001a",
+        "$type": "color"
+      }
+    },
+    "base": {
+      "white": {
+        "$value": "#ffffff",
+        "$type": "color"
+      },
+      "black": {
+        "$value": "#000000",
+        "$type": "color"
+      }
+    },
+    "label": {
+      "secondary": {
+        "$value": "#ffffffcc",
+        "$type": "color"
+      },
+      "tertiary": {
+        "$value": "#ffffff99",
+        "$type": "color"
+      },
+      "quaternary": {
+        "$value": "#ffffff66",
+        "$type": "color"
+      },
+      "quinary": {
+        "$value": "#ffffff40",
+        "$type": "color"
+      },
+      "primary": {
+        "$value": "{base.white}",
+        "$type": "color"
+      },
+      "btnlabel": {
+        "$value": "{base.black}",
+        "$type": "color"
+      }
+    },
+    "divide": {
+      "primary": {
+        "$value": "#ffffff1a",
+        "$type": "color"
+      },
+      "secondary": {
+        "$value": "#ffffff0f",
+        "$type": "color"
+      }
+    },
+    "boder": {
+      "primary": {
+        "$value": "{base.white}",
+        "$type": "color"
+      },
+      "secondary": {
+        "$value": "#ffffff66",
+        "$type": "color"
+      },
+      "tertiary": {
+        "$value": "#ffffff1f",
+        "$type": "color"
+      },
+      "generally": {
+        "$value": "#ffffff3d",
+        "$type": "color"
+      },
+      "auxiliary": {
+        "$value": "#ffffff2e",
+        "$type": "color"
+      },
+      "function_img": {
+        "$value": "#ffffff0f",
+        "$type": "color"
+      },
+      "function_icon": {
+        "$value": "#ffffff29",
+        "$type": "color"
+      },
+      "function_btn": {
+        "$value": "#ffffffb2",
+        "$type": "color"
+      }
+    },
+    "alert": {
+      "notice": {
+        "$value": "#e62d63",
+        "$type": "color"
+      },
+      "primary": {
+        "$value": "#e80807",
+        "$type": "color"
+      }
+    },
+    "function": {
+      "price1": {
+        "$value": "#ff791d",
+        "$type": "color"
+      },
+      "yellow": {
+        "$value": "#ffcb4f",
+        "$type": "color"
+      },
+      "offical": {
+        "$value": "#2096d3",
+        "$type": "color"
+      }
+    },
+    "pop": {
+      "he": {
+        "$value": "#0000001a",
+        "$type": "color"
+      }
+    },
+    "pz": {
+      "activityviews": {
+        "$value": "#1a3e6f",
+        "$type": "color"
+      },
+      "keyboard_discuss": {
+        "$value": "#262c6e",
+        "$type": "color"
+      },
+      "switchon": {
+        "$value": "#2173aa",
+        "$type": "color"
+      },
+      "tabbar": {
+        "$value": "#1b2250",
+        "$type": "color"
+      },
+      "theme": {
+        "$value": "#3080e1",
+        "$type": "color"
+      },
+      "gradient_color12": {
+        "$value": "#166092",
+        "$type": "color"
+      },
+      "gradient_color3": {
+        "$value": "#273f84",
+        "$type": "color"
+      },
+      "gradient_color4": {
+        "$value": "#2f2f7e",
+        "$type": "color"
+      }
+    },
+    "shadow": {
+      "card": {
+        "$value": "#0000001a",
+        "$type": "color"
+      },
+      "icon": {
+        "$value": "#0000001f",
+        "$type": "color"
+      },
+      "label": {
+        "$value": "#0000004d",
+        "$type": "color"
+      },
+      "small": {
+        "$value": "#00000099",
+        "$type": "color"
+      }
+    },
+    "icon": {
+      "emphasized": {
+        "$value": "{base.white}",
+        "$type": "color"
+      },
+      "emphasized_btn": {
+        "$value": "{base.black}",
+        "$type": "color"
+      },
+      "primary": {
+        "$value": "#ffffffc2",
+        "$type": "color"
+      },
+      "secondary": {
+        "$value": "#ffffff8f",
+        "$type": "color"
+      },
+      "tertiary": {
+        "$value": "#ffffff5c",
+        "$type": "color"
+      },
+      "quaternary": {
+        "$value": "#ffffff38",
+        "$type": "color"
+      }
+    }
+  },
+  "light": {
+    "bg": {
+      "primary": {
+        "$value": "#f6f5f8",
+        "$type": "color"
+      },
+      "secondary": {
+        "$value": "#f6f5f8",
+        "$type": "color"
+      },
+      "tertiary": {
+        "$value": "#f6f5f8",
+        "$type": "color"
+      },
+      "placeholder": {
+        "$value": "#f8f8ff",
+        "$type": "color"
+      },
+      "quaternary": {
+        "$value": "#f5f5f6",
+        "$type": "color"
+      },
+      "toast": {
+        "$value": "#111111e5",
+        "$type": "color"
+      },
+      "toast_auxiliary": {
+        "$value": "#000000b2",
+        "$type": "color"
+      },
+      "float": {
+        "$value": "#000000db",
+        "$type": "color"
+      },
+      "dialog": {
+        "$value": "#000000db",
+        "$type": "color"
+      },
+      "generally": {
+        "$value": "{base.white}",
+        "$type": "color"
+      }
+    },
+    "fill": {
+      "normal": {
+        "$value": "#f6f5f8",
+        "$type": "color"
+      },
+      "generally": {
+        "$value": "#00000026",
+        "$type": "color"
+      },
+      "auxiliary": {
+        "$value": "#f5f5f6",
+        "$type": "color"
+      },
+      "quaternary": {
+        "$value": "#0000004d",
+        "$type": "color"
+      },
+      "press": {
+        "$value": "#f8f8ff",
+        "$type": "color"
+      }
+    },
+    "base": {
+      "white": {
+        "$value": "#ffffff",
+        "$type": "color"
+      },
+      "black": {
+        "$value": "#000000",
+        "$type": "color"
+      }
+    },
+    "label": {
+      "secondary": {
+        "$value": "#575c68",
+        "$type": "color"
+      },
+      "tertiary": {
+        "$value": "#9b9da1",
+        "$type": "color"
+      },
+      "quaternary": {
+        "$value": "#ccccd3",
+        "$type": "color"
+      },
+      "quinary": {
+        "$value": "#dadada",
+        "$type": "color"
+      },
+      "primary": {
+        "$value": "#363a3e",
+        "$type": "color"
+      },
+      "btnlabel": {
+        "$value": "{base.white}",
+        "$type": "color"
+      }
+    },
+    "divide": {
+      "primary": {
+        "$value": "#dadada",
+        "$type": "color"
+      },
+      "secondary": {
+        "$value": "#ececec",
+        "$type": "color"
+      }
+    },
+    "boder": {
+      "primary": {
+        "$value": "{base.white}",
+        "$type": "color"
+      },
+      "secondary": {
+        "$value": "#ffffff66",
+        "$type": "color"
+      },
+      "tertiary": {
+        "$value": "#ffffff1f",
+        "$type": "color"
+      },
+      "generally": {
+        "$value": "#ffffff3d",
+        "$type": "color"
+      },
+      "auxiliary": {
+        "$value": "#ffffff2e",
+        "$type": "color"
+      },
+      "function_img": {
+        "$value": "#ffffff0f",
+        "$type": "color"
+      },
+      "function_icon": {
+        "$value": "#ffffff29",
+        "$type": "color"
+      },
+      "function_btn": {
+        "$value": "#ffffff29",
+        "$type": "color"
+      }
+    },
+    "alert": {
+      "notice": {
+        "$value": "#fa2a5e",
+        "$type": "color"
+      },
+      "primary": {
+        "$value": "#e80807",
+        "$type": "color"
+      }
+    },
+    "function": {
+      "price1": {
+        "$value": "#ff791d",
+        "$type": "color"
+      },
+      "yellow": {
+        "$value": "#ffcb4f",
+        "$type": "color"
+      },
+      "offical": {
+        "$value": "#2096d3",
+        "$type": "color"
+      }
+    },
+    "pop": {
+      "he": {
+        "$value": "#0000001a",
+        "$type": "color"
+      }
+    },
+    "pz": {
+      "activityviews": {
+        "$value": "#1a3e6f",
+        "$type": "color"
+      },
+      "keyboard_discuss": {
+        "$value": "#262c6e",
+        "$type": "color"
+      },
+      "switchon": {
+        "$value": "#2173aa",
+        "$type": "color"
+      },
+      "tabbar": {
+        "$value": "#1b2250",
+        "$type": "color"
+      },
+      "theme": {
+        "$value": "#3080e1",
+        "$type": "color"
+      },
+      "gradient_color12": {
+        "$value": "#166092",
+        "$type": "color"
+      },
+      "gradient_color3": {
+        "$value": "#273f84",
+        "$type": "color"
+      },
+      "gradient_color4": {
+        "$value": "#2f2f7e",
+        "$type": "color"
+      }
+    },
+    "shadow": {
+      "card": {
+        "$value": "#0000001a",
+        "$type": "color"
+      },
+      "icon": {
+        "$value": "#0000001f",
+        "$type": "color"
+      },
+      "label": {
+        "$value": "#0000004d",
+        "$type": "color"
+      },
+      "small": {
+        "$value": "#00000099",
+        "$type": "color"
+      }
+    },
+    "icon": {
+      "emphasized": {
+        "$value": "{base.black}",
+        "$type": "color"
+      },
+      "emphasized_btn": {
+        "$value": "{base.black}",
+        "$type": "color"
+      },
+      "primary": {
+        "$value": "#505056",
+        "$type": "color"
+      },
+      "secondary": {
+        "$value": "#a9a7b2",
+        "$type": "color"
+      },
+      "tertiary": {
+        "$value": "#ceccd2",
+        "$type": "color"
+      },
+      "quaternary": {
+        "$value": "#ceccd2",
+        "$type": "color"
+      }
+    }
+  }
+}
