@@ -1,0 +1,136 @@
+{
+  "origin": {
+    "0": {
+      "$value": 0,
+      "$type": "number"
+    },
+    "100": {
+      "$value": 8,
+      "$type": "number"
+    },
+    "125": {
+      "$value": 10,
+      "$type": "number"
+    },
+    "150": {
+      "$value": 12,
+      "$type": "number"
+    },
+    "175": {
+      "$value": 14,
+      "$type": "number"
+    },
+    "200": {
+      "$value": 16,
+      "$type": "number"
+    },
+    "225": {
+      "$value": 18,
+      "$type": "number"
+    },
+    "250": {
+      "$value": 20,
+      "$type": "number"
+    },
+    "275": {
+      "$value": 22,
+      "$type": "number"
+    },
+    "300": {
+      "$value": 24,
+      "$type": "number"
+    },
+    "325": {
+      "$value": 26,
+      "$type": "number"
+    },
+    "350": {
+      "$value": 28,
+      "$type": "number"
+    },
+    "375": {
+      "$value": 30,
+      "$type": "number"
+    },
+    "400": {
+      "$value": 32,
+      "$type": "number"
+    },
+    "425": {
+      "$value": 34,
+      "$type": "number"
+    },
+    "450": {
+      "$value": 36,
+      "$type": "number"
+    },
+    "475": {
+      "$value": 38,
+      "$type": "number"
+    },
+    "500": {
+      "$value": 40,
+      "$type": "number"
+    },
+    "525": {
+      "$value": 42,
+      "$type": "number"
+    },
+    "550": {
+      "$value": 44,
+      "$type": "number"
+    },
+    "575": {
+      "$value": 46,
+      "$type": "number"
+    },
+    "600": {
+      "$value": 48,
+      "$type": "number"
+    },
+    "625": {
+      "$value": 50,
+      "$type": "number"
+    },
+    "650": {
+      "$value": 52,
+      "$type": "number"
+    },
+    "675": {
+      "$value": 54,
+      "$type": "number"
+    },
+    "700": {
+      "$value": 56,
+      "$type": "number"
+    },
+    "025": {
+      "$value": 2,
+      "$type": "number"
+    },
+    "050": {
+      "$value": 4,
+      "$type": "number"
+    },
+    "075": {
+      "$value": 6,
+      "$type": "number"
+    },
+    "negative025": {
+      "$value": -2,
+      "$type": "number"
+    },
+    "negative050": {
+      "$value": -4,
+      "$type": "number"
+    },
+    "negative075": {
+      "$value": -6,
+      "$type": "number"
+    },
+    "negative100": {
+      "$value": -8,
+      "$type": "number"
+    }
+  }
+}
